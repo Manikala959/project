@@ -1,0 +1,386 @@
+*{
+	margin:0px;
+	padding:0px;
+/*	box-sizing: border-box;*/
+}
+.x{
+	height:1000px;
+	width:1000px;
+	background-color: white;
+
+}
+.y{
+	height:500px;
+	width:800px;
+	background-color: white;
+}
+.a{
+	height:400px;
+	width:800px;
+	background-color: white;
+	margin: 30px 50px 0px 3px;
+	background-image: url('images/studyy.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	font-size: 50px;
+	color:white;
+	
+}
+.z{
+	height:100px;
+	width:800px;
+	background-color: white;
+}
+
+.b{
+	height: 100px;
+	width:265px;
+
+    text-align: left;
+	font-size: 15px;
+	background-color:white;
+	/*padding-left: 40px;*/
+	float: left;
+}
+h1{
+	height: 50px;
+	width:200px;
+	background-color: white;
+	text-align: left;
+	font-size: 20px;
+	color:black;
+}
+.c{
+
+	height:400px;
+	width:800px;
+	background-color: white;
+	margin: 100px 5px 5px 5px;
+	background-image: url('images/class.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	font-size: 50px;
+	color:white;
+}
+.f{
+	height:200px;
+	width:200px;
+	margin:20px;
+	background-image: url('images/b1.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	font-size: 50px;
+	float:left;
+	color:white;
+}
+.i{
+	height: 20px;
+	width:800;
+	background-color: white;
+}
+.j{
+	height: 10px;
+	width: 200px;
+	margin:30px;
+	text-align: left;
+	font-size: 11px;
+	background-color: white;
+	float:left;
+}	
+
+	
+
+/*.f{
+	height:600px;
+	width:200px;
+	background-color: white;
+	margin: 30px 50px 0px 3px;
+	background-image: url('images/jane.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+height: 400px;
+width: 200px;
+	font-size: 20px;
+	color:white;
+	padding-right: 80px;
+	float:left;
+	
+}*/
+.g{
+	height:200px;
+	width:200px;
+	margin:20px;
+	background-color: white;
+	background-image: url('images/b2.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	font-size: 20px;
+	color:white;
+	float: left;
+}
+.h{
+	height: 200px;
+	width:200px;
+	margin:20px;
+	background-color: white;
+	background-image: url('images/b3.jpg');
+	background-repeat:no repeat ;
+	background-size:cover ;
+	font-size: 20px;
+	color: white;
+	float:left;
+}
+
+.k{
+	height:1000px;
+	width:1000px;
+	
+	background-color: white;
+
+}
+.t{
+	height:100px;
+	width:100px;
+	float:right;
+	font-size: 10px;
+	
+	background-color: white;
+
+}
+.u{
+	height:100px;
+	width:100px;
+	background-image: url('images/jhon.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 10px;
+	float:left;
+	color:white;
+	
+	background-color: white;
+
+}
+
+
+.p{
+	height:1000px;
+	width: 1000px;
+	background-color: white;
+}
+.l{
+	height: 300px;
+	width:900px;
+	background-color: white;
+	
+}
+.n1{
+	height: 300px;
+	width:180px;
+	background-image: url('images/jhon.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 10px;
+	float:left;
+	color:white;
+}
+.n2{
+	height: 300px;
+	width:200px;
+	background-color: white;
+	float: left;
+	font-size: 20px;
+	color:black;
+}
+.n3{
+	height: 300px;
+	width:250px;
+	background-image: url('images/jane.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 10px;
+	float:left;
+	color:white;
+}
+.n4{
+	height: 300px;
+	width:200px;
+	background-color: white;
+	float: left;
+	font-size: 20px;
+	color:black;
+}
+
+h4{
+	height: 50px;
+	width:200px;
+	background-color: white;
+	text-align: left;
+	font-size: 10px;
+	color:black;
+}
+.m{
+	height: 300px;
+	width:900px;
+	background-color: white;
+}
+/*.n{
+	height: 300px;
+	width:100px;
+	/*background-image: url('images/mary.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 10px;
+	float:left;
+	color:white;*/
+}
+.o1{
+	height: 300px;
+	width:250px;
+	background-image: url('images/mary.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 10px;
+	float:left;
+	color:white;
+	background-color: white;
+}
+.o2{
+	height: 300px;
+	width:200px;
+	background-color: white;
+	float: left;
+	font-size: 20px;
+	color:black;
+}
+.o3{
+	height:300px;
+	width:250px;
+	background-image: url('images/hanna.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 10px;
+	float:left;
+	color:white;
+	
+	background-color: white;
+
+}
+.o4{
+	height: 300px;
+	width:200px;
+	background-color: white;
+	float: left;
+	font-size: 20px;
+	color:black;
+}
+.r{
+	height:200px;
+	width:800px;
+	margin:500px 10px 10px 10px;
+	padding-top: 300px;
+	background-image: url('images/light.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	
+}
+.s{
+	height: 200px;
+	width:150px;
+    margin:0px 30px 2px 20px;
+    text-align: left;
+	font-size: 40px;
+	background-color:black;
+	/*padding-left: 40px;*/
+	float: left;
+	color:white;
+}
+h2{
+	height: 50px;
+	width:100px;
+	background-color: black;
+	margin:2px 2px 2px 20px;
+	text-align: left;
+	font-size: 40px;
+	color:white;
+}
+.w{
+	height: 1000px;
+	width:1600px;
+	margin:10px 0px 0px 0px;
+
+	background-color: white;
+	
+}
+.m1{
+	height:200px;
+	width:800px;
+	
+}
+.m2{
+	height:200px;
+	width:800px;
+}
+.m3{
+	height:200px;
+	width:260px;
+	background-color: white;
+	float:left;
+    background-image: url('images/m3.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+
+	font-size: 15px;
+	float:left;
+	
+}
+.m9{
+	height:200px;
+	width:260px;
+	background-color: white;
+	float: left;
+	font-size:25px;
+}
+
+.m4{
+	height:200px;
+	width:260px;
+	background-color: white;
+	float: left;
+	font-size:25px;
+}
+.m5{
+	height:400px;
+	width:260px;
+	background-color: white;
+	background-image: url('images/m5.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	float: left;
+}
+.m6{
+	height:200px;
+	width:260px;
+
+	margin:0px 0px 50px 0px;
+	background-color: white;
+	font-size:25px;
+	float:left;
+}
+.m7{
+	height:300px;
+	width:260px;
+	margin:0px 0px 100px 0px;
+	background-color: white;
+	background-image: url('images/m7.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+
+	float:left;
+}
+.m8{
+	height:200px;
+	width:260px;
+	font-size: 25px;
+	background-color: white;
+	float:left ;
+}
